@@ -40,6 +40,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________
 
 📝 Ementa do Curso
+
   Tipos primitivos, compostos e referenciados. Estruturas de dados elementares: registros, cadeias, arranjos (vetores), 
   matrizes, listas, conjuntos e vetores associativos. Funções: assinatura, parâmetros, passagem por valor (cópia) e referência, retornos, 
   tratamento de erros e exceções, encadeamento e empilhamento. Modularização e reuso. Modelagem, implementação e testes. 
