@@ -13,7 +13,7 @@ console.log("Hello World");
 // Escrever no Terminal
 // npm init -y => package.json
 
-// O arquivo package.json esé o manifesto de um projeto JavaScript 
+// O arquivo package.json é o manifesto de um projeto JavaScript 
 // no ecossistema Node.js, contendo metadados do projeto
 
 // node index.html  ou  node .
