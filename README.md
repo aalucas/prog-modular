@@ -19,6 +19,7 @@ ________________________________________________________________________________
 💻 Tecnologias Utilizadas
 
   JavaScript: A linguagem foi utilizada para explorar conceitos de programação funcional e imperativa, trabalhando principalmente com funções e módulos.
+  
   C++: A linguagem foi escolhida para estudar conceitos de programação orientada a objetos e de baixo nível, com ênfase em controle de memória e modularização.
 
 __________________________________________________________________________________________________________________________________________________________
