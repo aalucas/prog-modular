@@ -60,12 +60,15 @@ export function formatarCpf(cpf){
     // Tipo de Dado != string
     if(typeof cpf != 'string'){ // Se o tipo de dado de cpf for diferente de string
         cpf = String(cpf); // Converte cpf para string;
+        // Neste caso "String()" é melhor do que toString()
+        // Pois ela lida com null e undefined
     }
 
     // Tratamento de Erro 2
     // cpf == null || cpf == undefined || cpf vazio
     if(!cpf || cpf.length === 0){  // !cpf => Verifica se Cpf é false. Isso cobre automaticamente: null, undefined e String vazia
         console.log("Insira um valor para CPF");
+        return null;
     }
 
     // Tratamento de Erro 3
@@ -92,4 +95,5 @@ export function formatarCpf(cpf){
     // Concatenando e Formatando a String
     return p1 + "." + p2 + "." + p3 + "-" + p4;
 }
+
 console.log(formatarCpf(cpf)); // 012.345.678-90
