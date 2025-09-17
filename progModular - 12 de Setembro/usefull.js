@@ -13,7 +13,7 @@ export function calcularImc(peso, altura){
     // Tratamento de Erro 1
     // peso || altura != Number
     if(typeof peso != "number" || typeof altura != "number"){
-        peso = Number(peso);var imcClass;
+        peso = Number(peso);
         altura = Number(altura);
     }
 
