@@ -1,7 +1,7 @@
 🧑‍💻 Programação Modular - Repositório Acadêmico
 
   Este repositório contém os códigos e materiais da disciplina Programação Modular, 
-  com foco nas linguagens JavaScript e C++. O objetivo desta disciplina é 
+  com foco nas linguagens JavaScript e C#. O objetivo desta disciplina é 
   ensinar os conceitos fundamentais de programação modular, abordando como estruturar 
   sistemas de software em módulos independentes e reutilizáveis.
 
@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
   JavaScript: A linguagem foi utilizada para explorar conceitos de programação funcional e imperativa, trabalhando principalmente com funções e módulos.
   
-  C++: A linguagem foi escolhida para estudar conceitos de programação orientada a objetos e de baixo nível, com ênfase em controle de memória e modularização.
+  C#: A linguagem foi escolhida para estudar conceitos de programação orientada a objetos e de baixo nível, com ênfase em controle de memória e modularização.
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -35,7 +35,7 @@ ________________________________________________________________________________
   Ao longo da disciplina, foram abordados os seguintes conceitos e práticas:
   Modularização de código: Como dividir um grande sistema em partes menores e independentes.
   Funções e Módulos (em JavaScript): Exploração das formas de criar módulos e importar/exportar funcionalidades.
-  Estruturas de Dados (em C++): Uso de estruturas como arrays, listas e classes para organizar e manipular dados.
+  Estruturas de Dados (em C#): Uso de estruturas como arrays, listas e classes para organizar e manipular dados.
   Reutilização de código: Técnicas para criar código reutilizável e fácil de manter.
 
 __________________________________________________________________________________________________________________________________________________________
