@@ -24,9 +24,7 @@ A função "middle" com base no tamanho da estrutura de dado, ela remove o eleme
 centrais (no caso de tamanho par). Por sua vez, a função "next" tamanho têm como objetivo remover o PRÓXIMO elemento de uma estrutura de 
 dado, tendo como base um índice específico já previamente estabelecido pelo usuário.
 
-📚 Resumindo os Métodos Usados em Cada Função
 
- - Função pop
 
 
 
