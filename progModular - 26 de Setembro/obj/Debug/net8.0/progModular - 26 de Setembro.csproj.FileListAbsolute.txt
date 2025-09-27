@@ -1,0 +1,14 @@
+/home/aluno/Documentos/progModular/progModular - 26 de Setembro/bin/Debug/net8.0/progModular - 26 de Setembro
+/home/aluno/Documentos/progModular/progModular - 26 de Setembro/bin/Debug/net8.0/progModular - 26 de Setembro.deps.json
+/home/aluno/Documentos/progModular/progModular - 26 de Setembro/bin/Debug/net8.0/progModular - 26 de Setembro.runtimeconfig.json
+/home/aluno/Documentos/progModular/progModular - 26 de Setembro/bin/Debug/net8.0/progModular - 26 de Setembro.dll
+/home/aluno/Documentos/progModular/progModular - 26 de Setembro/bin/Debug/net8.0/progModular - 26 de Setembro.pdb
+/home/aluno/Documentos/progModular/progModular - 26 de Setembro/obj/Debug/net8.0/progModular - 26 de Setembro.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/progModular/progModular - 26 de Setembro/obj/Debug/net8.0/progModular - 26 de Setembro.AssemblyInfoInputs.cache
+/home/aluno/Documentos/progModular/progModular - 26 de Setembro/obj/Debug/net8.0/progModular - 26 de Setembro.AssemblyInfo.cs
+/home/aluno/Documentos/progModular/progModular - 26 de Setembro/obj/Debug/net8.0/progModular - 26 de Setembro.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/progModular/progModular - 26 de Setembro/obj/Debug/net8.0/progModular - 26 de Setembro.dll
+/home/aluno/Documentos/progModular/progModular - 26 de Setembro/obj/Debug/net8.0/refint/progModular - 26 de Setembro.dll
+/home/aluno/Documentos/progModular/progModular - 26 de Setembro/obj/Debug/net8.0/progModular - 26 de Setembro.pdb
+/home/aluno/Documentos/progModular/progModular - 26 de Setembro/obj/Debug/net8.0/progModular - 26 de Setembro.genruntimeconfig.cache
+/home/aluno/Documentos/progModular/progModular - 26 de Setembro/obj/Debug/net8.0/ref/progModular - 26 de Setembro.dll
