@@ -1,4 +1,5 @@
 RECAPTULAÇÃO 
+----------------------
 
 - Entender e escrever Funções
     * Assinatura de uma função (nome, parâmetro, e afins)
