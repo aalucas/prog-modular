@@ -1,0 +1,14 @@
+/home/aluno/Documentos/progModular/progModular  - 03 de Outubro/obj/Debug/net8.0/progModular  - 03 de Outubro.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/progModular/progModular  - 03 de Outubro/obj/Debug/net8.0/progModular  - 03 de Outubro.AssemblyInfoInputs.cache
+/home/aluno/Documentos/progModular/progModular  - 03 de Outubro/obj/Debug/net8.0/progModular  - 03 de Outubro.AssemblyInfo.cs
+/home/aluno/Documentos/progModular/progModular  - 03 de Outubro/obj/Debug/net8.0/progModular  - 03 de Outubro.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/progModular/progModular  - 03 de Outubro/bin/Debug/net8.0/progModular  - 03 de Outubro
+/home/aluno/Documentos/progModular/progModular  - 03 de Outubro/bin/Debug/net8.0/progModular  - 03 de Outubro.deps.json
+/home/aluno/Documentos/progModular/progModular  - 03 de Outubro/bin/Debug/net8.0/progModular  - 03 de Outubro.runtimeconfig.json
+/home/aluno/Documentos/progModular/progModular  - 03 de Outubro/bin/Debug/net8.0/progModular  - 03 de Outubro.dll
+/home/aluno/Documentos/progModular/progModular  - 03 de Outubro/bin/Debug/net8.0/progModular  - 03 de Outubro.pdb
+/home/aluno/Documentos/progModular/progModular  - 03 de Outubro/obj/Debug/net8.0/progModular  - 03 de Outubro.dll
+/home/aluno/Documentos/progModular/progModular  - 03 de Outubro/obj/Debug/net8.0/refint/progModular  - 03 de Outubro.dll
+/home/aluno/Documentos/progModular/progModular  - 03 de Outubro/obj/Debug/net8.0/progModular  - 03 de Outubro.pdb
+/home/aluno/Documentos/progModular/progModular  - 03 de Outubro/obj/Debug/net8.0/progModular  - 03 de Outubro.genruntimeconfig.cache
+/home/aluno/Documentos/progModular/progModular  - 03 de Outubro/obj/Debug/net8.0/ref/progModular  - 03 de Outubro.dll
