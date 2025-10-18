@@ -1,0 +1,14 @@
+/home/aluno/aula171025/bin/Debug/net8.0/aula171025
+/home/aluno/aula171025/bin/Debug/net8.0/aula171025.deps.json
+/home/aluno/aula171025/bin/Debug/net8.0/aula171025.runtimeconfig.json
+/home/aluno/aula171025/bin/Debug/net8.0/aula171025.dll
+/home/aluno/aula171025/bin/Debug/net8.0/aula171025.pdb
+/home/aluno/aula171025/obj/Debug/net8.0/aula171025.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/aula171025/obj/Debug/net8.0/aula171025.AssemblyInfoInputs.cache
+/home/aluno/aula171025/obj/Debug/net8.0/aula171025.AssemblyInfo.cs
+/home/aluno/aula171025/obj/Debug/net8.0/aula171025.csproj.CoreCompileInputs.cache
+/home/aluno/aula171025/obj/Debug/net8.0/aula171025.dll
+/home/aluno/aula171025/obj/Debug/net8.0/refint/aula171025.dll
+/home/aluno/aula171025/obj/Debug/net8.0/aula171025.pdb
+/home/aluno/aula171025/obj/Debug/net8.0/aula171025.genruntimeconfig.cache
+/home/aluno/aula171025/obj/Debug/net8.0/ref/aula171025.dll
