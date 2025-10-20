@@ -1,12 +1,12 @@
 **COMANDOS TERMINAL**
 ----------------------
 
-Ctrl + Alt + t --> Abrir Terminal
-mkdir <nome_pasta> --> Criar Pasta
-pwd --> Localizar do Usuário durante a sua navegação
-ls --> Listar os arquivos da pasta/local onde o usuário se encontra
-dotnet new console --> Criar um Projeto **C#**
-**code .** --> Abrir pasta no VsCode
+ - Ctrl + Alt + t --> Abrir Terminal
+ - mkdir <nome_pasta> --> Criar Pasta
+ - pwd --> Localizar do Usuário durante a sua navegação
+ - ls --> Listar os arquivos da pasta/local onde o usuário se encontra
+ - dotnet new console --> Criar um Projeto **C#**
+ - **code .** --> Abrir pasta no VsCode
 
 **Recaptulação**
 -----------------
