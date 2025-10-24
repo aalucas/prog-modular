@@ -1,0 +1,14 @@
+/home/lucius/sistemaHorista/obj/Debug/net8.0/sistemaHorista.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucius/sistemaHorista/obj/Debug/net8.0/sistemaHorista.AssemblyInfoInputs.cache
+/home/lucius/sistemaHorista/obj/Debug/net8.0/sistemaHorista.AssemblyInfo.cs
+/home/lucius/sistemaHorista/obj/Debug/net8.0/sistemaHorista.csproj.CoreCompileInputs.cache
+/home/lucius/sistemaHorista/bin/Debug/net8.0/sistemaHorista
+/home/lucius/sistemaHorista/bin/Debug/net8.0/sistemaHorista.deps.json
+/home/lucius/sistemaHorista/bin/Debug/net8.0/sistemaHorista.runtimeconfig.json
+/home/lucius/sistemaHorista/bin/Debug/net8.0/sistemaHorista.dll
+/home/lucius/sistemaHorista/bin/Debug/net8.0/sistemaHorista.pdb
+/home/lucius/sistemaHorista/obj/Debug/net8.0/sistemaHorista.dll
+/home/lucius/sistemaHorista/obj/Debug/net8.0/refint/sistemaHorista.dll
+/home/lucius/sistemaHorista/obj/Debug/net8.0/sistemaHorista.pdb
+/home/lucius/sistemaHorista/obj/Debug/net8.0/sistemaHorista.genruntimeconfig.cache
+/home/lucius/sistemaHorista/obj/Debug/net8.0/ref/sistemaHorista.dll
